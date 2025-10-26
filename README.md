@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image 7" src="https://github.com/user-attachments/assets/37ed2238-f03d-4d90-aced-b4ce1e450fe6" /># 🛒 Supermarket Sales Dashboard — Power BI Project
+
 
 ## 📘 Project Overview
 The **Supermarket Sales Dashboard** is an interactive Power BI report designed to analyze and visualize supermarket transaction data.  
